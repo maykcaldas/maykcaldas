@@ -6,7 +6,8 @@
 
 
 <a href="https://twitter.com/kyam888" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px" /></a>
-<a href="https://instagram.com/kyam888" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://instagram.com/kyam888" target="blank"><img align="left" src="icons/instagram.svg" alt="instagram" width="22px" /></a>
+<a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="left" src="icons/codewars.svg" alt="codewars" width="22px" /></a>
 
 <!--
 **maykcaldas/maykcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
