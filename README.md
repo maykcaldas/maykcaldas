@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
+
+![thats an url](#)
+
+
+<a href="https://twitter.com/kyam888" target="blank"><img align="left" src="icons/twitter.svg" alt="twitter" width="22px" /></a>
+<a href="https://instagram.com/kyam888" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 
 <!--
 **maykcaldas/maykcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
