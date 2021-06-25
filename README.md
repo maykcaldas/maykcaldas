@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=maykcaldas&color=green&style=plastic)
+
 <a href="https://twitter.com/kyam888" target="blank"><img align="right" src="icons/twitter.svg" alt="twitter" width="22px" /></a>
 <a href="https://instagram.com/kyam888" target="blank"><img align="right" src="icons/instagram.svg" alt="instagram" width="22px" /></a>
 <a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="icons/codewars.svg" alt="codewars" width="22px" /></a>
