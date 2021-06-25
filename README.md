@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=maykcaldas&color=green&style=plastic)
+![](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=plastic)
 
 <a href="https://twitter.com/kyam888" target="blank"><img align="right" src="icons/twitter.svg" alt="twitter" width="22px" /></a>
 <a href="https://instagram.com/kyam888" target="blank"><img align="right" src="icons/instagram.svg" alt="instagram" width="22px" /></a>
