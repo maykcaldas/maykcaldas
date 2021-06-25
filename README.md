@@ -6,7 +6,7 @@
 
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact)](https://github.com/maykcaldas/github-readme-stats)
 
 <!--
 **maykcaldas/maykcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
