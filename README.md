@@ -14,7 +14,7 @@
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
