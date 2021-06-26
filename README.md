@@ -1,3 +1,8 @@
+<!--  
+[![DOI](https://zenodo.org/badge/167184498.svg)](https://zenodo.org/badge/latestdoi/167184498)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+-->
+
 ![](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=plastic)
 <div>
   <a href="https://github.com/maykcaldas" target="blank"><img align="right" src="profIcons/github.svg" alt="github" width="22px" /></a>&nbsp;
@@ -64,6 +69,7 @@
 ![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+[![F90](https://img.shields.io/badge/F90-_-black>.svg)](https://shields.io/)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=plastic&logo=java)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
@@ -133,4 +139,5 @@ Here are some ideas to get you started:
 Motivational:
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#icons-
 https://github.com/Ileriayo/markdown-badges
+https://github.com/Naereen/badges
 -->
