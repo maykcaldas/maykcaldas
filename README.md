@@ -1,16 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=plastic)
 
+<a href="https://github.com/maykcaldas" target="blank"><img align="right" src="icons/github.svg" alt="github" width="22px" /></a>
+<a href="" target="blank"><img align="right" src="icons/steam.svg" alt="steam" width="22px" /></a>
 <a href="https://twitter.com/kyam888" target="blank"><img align="right" src="icons/twitter.svg" alt="twitter" width="22px" /></a>
 <a href="https://instagram.com/kyam888" target="blank"><img align="right" src="icons/instagram.svg" alt="instagram" width="22px" /></a>
 <a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="icons/codewars.svg" alt="codewars" width="22px" /></a>
+<a href="Kyam#5760" target="blank"><img align="right" src="icons/discord.svg" alt="discord" width="22px" /></a>
+<a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="blank"><img align="right" alt="Spotify" height="22px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
 ## Hey there 👋
 <div align="center">
   <a href="https://github.com/maykcaldas"><img src="imgs/github.svg" alt="GitHub"></a>
   <a href="https://twitter.com/kyam888"><img src="imgs/twitter.svg" alt="Twitter"></a>
   <a href="https://github.com/maykcaldas"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-  <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>
+  <a href="https://maykcaldas.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+  <a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>
 </div>
 
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
