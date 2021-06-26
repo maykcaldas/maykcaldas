@@ -102,7 +102,7 @@
 ![Django](https://img.shields.io/badge/-Django-282C34?style=plastic&logo=Django)
 ![PHP](https://img.shields.io/badge/PHP-black?style=plastic&logo=php)
 
-## here usually I spend time on ?
+## Where usually do I spend time on ?
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=Udemy&logoColor=white)
 ![CodeWars](https://img.shields.io/badge/-CodeWars-2EC866?style=plastic&logo=CodeWars&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green)
