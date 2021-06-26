@@ -83,7 +83,7 @@
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=plastic&logo=Overleaf&logoColor=white)
 
 ## SOs ?
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
@@ -100,7 +100,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-282C34?style=plastic&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-282C34?style=plastic&logo=docker)
 ![Django](https://img.shields.io/badge/-Django-282C34?style=plastic&logo=Django)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/PHP-black?style=plastic&logo=php)
 
 ## here usually I spend time on ?
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=Udemy&logoColor=white)
