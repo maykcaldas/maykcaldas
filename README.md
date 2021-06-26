@@ -21,24 +21,25 @@
 </div>
 
 <!-- Usually badges with an style attribute accept: plastic and flat-square -->
-![Gmail](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maykcaldas@gmail.com)
-![Twitter](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kyam888)
-![Linkedin](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
-[![Instagram](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/kyam888/)](https://instagram.com/kyam888/)
-![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord)
-![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mayk.caldas/)
-![Spotify]("https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white")
+[![Gmail](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:maykcaldas@gmail.com)
+[![Twitter](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/kyam888)
+[![Linkedin](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
+[![Instagram](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/kyam888/)
+[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord)]()
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mayk-Ramos?ev=hdr_xprf)
+[![Facebook Badge](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white)](link=https://www.facebook.com/mayk.caldas/)
+[![Spotify]("https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white")](https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y)
+[![Tumblr](https://img.shields.io/badge/kyam888-%2336465D.svg?style=plastic&logo=Tumblr&logoColor=white)]()
 
 <div align="center">
   <img alt="Instagram" src="https://img.shields.io/badge/kyam888-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white"/>&nbsp;
-  <img alt="Skype" src="https://img.shields.io/badge/kyam888-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white"/>&nbsp;
-  <img alt="Tumblr" src="https://img.shields.io/badge/kyam888-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white"/>&nbsp;
-  <img alt="Twitter" src="https://img.shields.io/badge/kyam888-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;
-  <img alt="LinkedIn" src="https://img.shields.io/badge/Mayk_Caldas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
-  <img alt="Discord" src="https://img.shields.io/badge/%3CKyam#5760%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
-  <img alt="Telegram" src="https://img.shields.io/badge/Kyam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />&nbsp;
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />&nbsp;
+  <img alt="Skype" src="https://img.shields.io/badge/kyam888-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white"/>&nbsp;
+  <img alt="Tumblr" src="https://img.shields.io/badge/kyam888-%2336465D.svg?style=plastic&logo=Tumblr&logoColor=white"/>&nbsp;
+  <img alt="Twitter" src="https://img.shields.io/badge/kyam888-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"/>&nbsp;
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Mayk_Caldas-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/>&nbsp;
+  <img alt="Discord" src="https://img.shields.io/badge/%3CKyam#5760%3E-%237289DA.svg?style=plastic&logo=discord&logoColor=white"/>&nbsp;
+  <img alt="Telegram" src="https://img.shields.io/badge/Kyam-2CA5E0?style=plastic&logo=telegram&logoColor=white" />&nbsp;
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white" />&nbsp;
 </div>
 
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
