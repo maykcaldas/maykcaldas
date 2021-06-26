@@ -23,9 +23,8 @@
 
 <br>
 <hr>
-"Consegui meu equilibrio cortejando a insanidade" 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div align="right">"Consegui meu equilibrio cortejando a insanidade"<div>
+  
 <!--
 **maykcaldas/maykcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
