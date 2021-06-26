@@ -10,6 +10,7 @@
   <a href="https://twitter.com/kyam888"><img src="imgs/twitter.svg" alt="Twitter"></a>
   <a href="https://github.com/maykcaldas"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
   <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>
 </div>
 
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
