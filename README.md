@@ -37,7 +37,7 @@
   <img alt="Tumblr" src="https://img.shields.io/badge/kyam888-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white"/>&nbsp;
   <img alt="Twitter" src="https://img.shields.io/badge/kyam888-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;
   <img alt="LinkedIn" src="https://img.shields.io/badge/Mayk_Caldas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
-  <img alt="Discord" src="https://img.shields.io/badge/%Kyam%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
+  <img alt="Discord" src="https://img.shields.io/badge/%3CKyam%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
   <img alt="Telegram" src="https://img.shields.io/badge/Kyam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />&nbsp;
 </div>
 
