@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=plastic)
 
-<a href="https://github.com/maykcaldas" target="blank"><img align="right" src="icons/github.svg" alt="github" width="22px" /></a>
-<a href="" target="blank"><img align="right" src="icons/steam.svg" alt="steam" width="22px" /></a>
-<a href="https://twitter.com/kyam888" target="blank"><img align="right" src="icons/twitter.svg" alt="twitter" width="22px" /></a>
-<a href="https://instagram.com/kyam888" target="blank"><img align="right" src="icons/instagram.svg" alt="instagram" width="22px" /></a>
-<a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="icons/codewars.svg" alt="codewars" width="22px" /></a>
-<a href="Kyam#5760" target="blank"><img align="right" src="icons/discord.svg" alt="discord" width="22px" /></a>
-<a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="blank"><img align="right" alt="Spotify" height="22px" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+<a href="https://github.com/maykcaldas" target="blank"><img align="right" src="profIcons/github.svg" alt="github" width="22px" /></a>
+<a href="" target="blank"><img align="right" src="profIcons/steam.svg" alt="steam" width="22px" /></a>
+<a href="https://twitter.com/kyam888" target="blank"><img align="right" src="profIcons/twitter.svg" alt="twitter" width="22px" /></a>
+<a href="https://instagram.com/kyam888" target="blank"><img align="right" src="profIcons/instagram.svg" alt="instagram" width="22px" /></a>
+<a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="profIcons/codewars.svg" alt="codewars" width="22px" /></a>
+<a href="Kyam#5760" target="blank"><img align="right" src="profIcons/discord.svg" alt="discord" width="22px" /></a>
+<a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="blank"><img align="right" alt="Spotify" height="22px" width="22px" src="profIcons/spotify.svg"></a>
 
 ## Hey there 👋
 <div align="center">
