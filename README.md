@@ -30,8 +30,8 @@
 ![Facebook Badge](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mayk.caldas/)
 
 <div align="center">
-  <img alt="Instagram" src="https://img.shields.io/badge/kyam888-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;
-  <img alt="Skype" src="https://img.shields.io/badge/kyam888-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>&nbsp;
+  <img alt="Instagram" src="https://img.shields.io/badge/kyam888-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white"/>&nbsp;
+  <img alt="Skype" src="https://img.shields.io/badge/kyam888-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white"/>&nbsp;
   <img alt="Tumblr" src="https://img.shields.io/badge/kyam888-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white"/>&nbsp;
   <img alt="Twitter" src="https://img.shields.io/badge/kyam888-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>&nbsp;
   <img alt="LinkedIn" src="https://img.shields.io/badge/Mayk_Caldas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
