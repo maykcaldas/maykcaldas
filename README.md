@@ -22,13 +22,13 @@
 
 <!-- Usually badges with an style attribute accept: plastic and flat-square -->
 [![Gmail](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:maykcaldas@gmail.com)
-[![Telegram]("https://img.shields.io/badge/Kyam-2CA5E0?style=plastic&logo=telegram&logoColor=white")](https://t.me/Kyam888)
+[![Telegram]("https://img.shields.io/badge/Kyam-2CA5E0?style=flat-square&logo=telegram&logoColor=white")](https://t.me/Kyam888)
 [![Twitter](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/kyam888)
 [![Linkedin](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
-[![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord)]()
+[![Discord](https://img.shields.io/badge/Kyam-black?style=plastic&logo=discord)]()
 [![Instagram](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/kyam888/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mayk-Ramos?ev=hdr_xprf)
-[![Spotify]("https://img.shields.io/badge/Kyam-1ED760?style=plastic&logo=spotify&logoColor=white")](https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y)
+[![Spotify]("https://img.shields.io/badge/Kyam-1ED760?style=flat-square&logo=spotify&logoColor=white")](https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y)
 [![Facebook](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white)](link=https://www.facebook.com/mayk.caldas/)
 [![Tumblr](https://img.shields.io/badge/kyam888-%2336465D.svg?style=plastic&logo=Tumblr&logoColor=white)]()
 [![Skype](https://img.shields.io/badge/kyam888-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)]()
