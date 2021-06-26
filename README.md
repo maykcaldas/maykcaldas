@@ -21,13 +21,14 @@
 </div>
 
 <!-- Usually badges with an style attribute accept: plastic and flat-square -->
-![Gmail Badge](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maykcaldas@gmail.com)
-![Twitter Badge](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kyam888)
-![Linkedin Badge](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
-![Instagram Badge](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/kyam888/)
+![Gmail](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maykcaldas@gmail.com)
+![Twitter](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kyam888)
+![Linkedin](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
+[![Instagram](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/kyam888/)](https://instagram.com/kyam888/)
 ![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord)
 ![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mayk.caldas/)
+![Spotify]("https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white")
 
 <div align="center">
   <img alt="Instagram" src="https://img.shields.io/badge/kyam888-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white"/>&nbsp;
