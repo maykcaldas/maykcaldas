@@ -12,15 +12,14 @@
 
 ## Hey there 👋
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/maykcaldas"><img src="imgs/github.svg" alt="GitHub"></a>&nbsp;
   <a href="https://twitter.com/kyam888"><img src="imgs/twitter.svg" alt="Twitter"></a>&nbsp;
   <a href="https://github.com/maykcaldas"><img src="imgs/sponsors.svg" alt="Sponsors"></a>&nbsp;
-  <a href="https://maykcaldas.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>&nbsp;
-  <a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>&nbsp;
-</div>
+</div> -->
 
 <!-- Usually badges with an style attribute accept: plastic and flat-square -->
+<a href="https://maykcaldas.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>&nbsp;
 [![Gmail](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:maykcaldas@gmail.com)
 [![Telegram](https://img.shields.io/badge/Kyam-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Kyam888)
 [![Twitter](https://img.shields.io/badge/-Kyam888-blue?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/kyam888)
@@ -32,9 +31,10 @@
 [![Facebook](https://img.shields.io/badge/-Mayk_Caldas-blue?style=plastic&logo=Facebook&logoColor=white)](link=https://www.facebook.com/mayk.caldas/)
 [![Tumblr](https://img.shields.io/badge/Kyam888-%2336465D.svg?style=plastic&logo=Tumblr&logoColor=white)]()
 [![Skype](https://img.shields.io/badge/Kyam888-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)]()
+<a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>&nbsp;
 
 <!-- <div align="center">
-  <img alt="Gmail" src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">&nbsp;
+  <img alt="Gmail" src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height="25">&nbsp;
   <img alt="Telegram" src="https://img.shields.io/badge/Kyam-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />&nbsp;
   <img alt="Twitter" src="https://img.shields.io/badge/Kyam888-blue.svg?style=flat-square&logo=Twitter&logoColor=white"/>&nbsp;
   <img alt="LinkedIn" src="https://img.shields.io/badge/Mayk_Caldas-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>&nbsp;
@@ -62,11 +62,11 @@
 
 ## Programming languages ?
 ![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=Python)
+![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=plastic&logo=java)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
 
 ## Cool stuff ?
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
@@ -77,7 +77,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 ## IDEs ?
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
@@ -87,55 +86,32 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)
+![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
 
 ## In what am I having fun ?
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-<img alt="HTML5 logo" src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="22" />&nbsp;
-<img alt="CSS3 logo" src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="22" />&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-<img alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25" />&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-<img alt="React Native logo" src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" title="React Native" height="25" />&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-
-<img alt="Android logo" src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" title="Android" height="25" />&nbsp;
-
-<img alt="Node.js logo" src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" title="Node.js" height="25" />&nbsp;
-<img alt="Next.js logo" src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" title="Next.js" height="25" />&nbsp;
-<img alt="Stack Overflow logo" src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" title="Stack Overflow" height="25" />&nbsp;
-<img alt="MongoDB logo" src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25" />&nbsp;
-<img alt="React Native logo" src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" title="React Native" height="25" />&nbsp;
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>&nbsp;
-
+![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
+![Node.JS](https://img.shields.io/badge/-Node.JS-282C34?style=plastic&logo=Node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-282C34?style=plastic&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-282C34?style=plastic&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-282C34?style=plastic&logo=docker)
+![Django](https://img.shields.io/badge/-Django-282C34?style=plastic&logo=Django)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-## Usually I spend time on ?
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=Udemy&logoColor=white"/>&nbsp;
-<img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green"/>&nbsp;
-<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=plastic&logo=Repl.it&logoColor=white"/>&nbsp;
-<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white"/>&nbsp;
 
+## here usually I spend time on ?
+![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=Udemy&logoColor=white)
+![CodeWars](https://img.shields.io/badge/-CodeWars-2EC866?style=plastic&logo=CodeWars&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green)
+![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=plastic&logo=Repl.it&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)
+![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" title="Stack Overflow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
