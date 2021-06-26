@@ -7,6 +7,7 @@
 <a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="profIcons/codewars.svg" alt="codewars" width="22px" /></a>
 <a href="Kyam#5760" target="blank"><img align="right" src="profIcons/discord.svg" alt="discord" width="22px" /></a>
 <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="blank"><img align="right" alt="Spotify" height="22px" width="22px" src="profIcons/spotify.svg"></a>
+<a href="https://t.me/Kyam888"><img align="right" alt="Telegram" width="22px" src="icons/telegram.svg"/></a>
 
 ## Hey there 👋
 <div align="center">
