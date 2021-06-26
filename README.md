@@ -20,16 +20,14 @@
   <a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>&nbsp;
 </div>
 
-<a href="mailto:maykcaldas@gmail.com"><img src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" alt></a>
+<!-- Usually badges with an style attribute accept: plastic and flat-square -->
 ![Gmail Badge](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maykcaldas@gmail.com)
-![Gmail Badge](https://img.shields.io/badge/-maykcaldasd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maykcaldasd@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kyam888)
 ![Linkedin Badge](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
-![Linkedin Badge](https://img.shields.io/badge/-maykcaldas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
-![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kyam888/)
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
-[![Facebook Badge](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mayk.caldas/)](https://www.facebook.com/mayk.caldas/)
+![Instagram Badge](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/kyam888/)
+![Discord](https://img.shields.io/badge/Discord-black?style=plastic&logo=discord)
+![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/mayk.caldas/)
 
 <div align="center">
   <img alt="Instagram" src="https://img.shields.io/badge/kyam888-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;
