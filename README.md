@@ -4,12 +4,13 @@
 <a href="https://instagram.com/kyam888" target="blank"><img align="right" src="icons/instagram.svg" alt="instagram" width="22px" /></a>
 <a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="icons/codewars.svg" alt="codewars" width="22px" /></a>
 
-## Hi there 👋
+## Hey there 👋
 <div align="center">
   <a href="https://github.com/maykcaldas"><img src="imgs/github.svg" alt="GitHub"></a>
   <a href="https://twitter.com/kyam888"><img src="imgs/twitter.svg" alt="Twitter"></a>
   <a href="https://github.com/maykcaldas"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
 </div>
+
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
 
 
