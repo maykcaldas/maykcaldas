@@ -20,7 +20,9 @@
   <a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg" alt="Citations"></a>
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maykcaldas@gmail.com)](mailto:maykcaldas@gmail.com)
+<a href="mailto:maykcaldas@gmail.com"><img src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white" alt></a>
+
+<!-- [![Gmail Badge](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:maykcaldas@gmail.com)](mailto:maykcaldas@gmail.com) -->
 [![Twitter Badge](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/kyam888)](https://twitter.com/kyam888)
 <!-- [![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/) -->
 [![Linkedin Badge](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
@@ -38,8 +40,9 @@
   <img alt="Discord" src="https://img.shields.io/badge/%Kyam%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
   <img alt="Telegram" src="https://img.shields.io/badge/Kyam-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />&nbsp;
 </div>
+
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Charles_Van_Goethem)
+![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
