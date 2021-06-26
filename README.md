@@ -23,15 +23,15 @@
 <!-- Usually badges with an style attribute accept: plastic and flat-square -->
 [![Gmail](https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:maykcaldas@gmail.com)
 [![Telegram](https://img.shields.io/badge/Kyam-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Kyam888)
-[![Twitter](https://img.shields.io/badge/-kyam888-blue?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/kyam888)
-[![Linkedin](https://img.shields.io/badge/-maykcaldas-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
+[![Twitter](https://img.shields.io/badge/-Kyam888-blue?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/kyam888)
+[![Linkedin](https://img.shields.io/badge/-Mayk_Caldas-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maykcaldas/?originalSubdomain=br/)
 [![Discord](https://img.shields.io/badge/Kyam-black?style=plastic&logo=discord)]()
-[![Instagram](https://img.shields.io/badge/-kyam888-red?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/kyam888/)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mayk-Ramos?ev=hdr_xprf)
+[![Instagram](https://img.shields.io/badge/-Kyam888-red?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/kyam888/)
+[![ResearchGate](https://img.shields.io/badge/-Mayk_Caldas-00CCBB?style=plastic&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mayk-Ramos?ev=hdr_xprf)
 [![Spotify](https://img.shields.io/badge/Kyam-1ED760?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y)
-[![Facebook](https://img.shields.io/badge/-mayk_caldas-blue?style=plastic&logo=Facebook&logoColor=white)](link=https://www.facebook.com/mayk.caldas/)
-[![Tumblr](https://img.shields.io/badge/kyam888-%2336465D.svg?style=plastic&logo=Tumblr&logoColor=white)]()
-[![Skype](https://img.shields.io/badge/kyam888-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/-Mayk_Caldas-blue?style=plastic&logo=Facebook&logoColor=white)](link=https://www.facebook.com/mayk.caldas/)
+[![Tumblr](https://img.shields.io/badge/Kyam888-%2336465D.svg?style=plastic&logo=Tumblr&logoColor=white)]()
+[![Skype](https://img.shields.io/badge/Kyam888-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)]()
 
 <!-- <div align="center">
   <img alt="Gmail" src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">&nbsp;
@@ -48,68 +48,45 @@
 </div> -->
 
 ### I am kind of testing stuff. Maybe it'd be cool to have a customized profile
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<img alt="git logo" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="22" />&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp;
-<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>&nbsp;
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=plastic&logo=bitbucket)
 
-
+<!-- <div align="center">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>&nbsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"/>&nbsp;
+  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white"/>&nbsp;
+</div> -->
 
 ## Programming languages ?
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Python](https://img.shields.io/badge/-Python-green?style=plastic&logo=Python)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=plastic&logo=java)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
 
 ## Cool stuff ?
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;
-<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
-<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>&nbsp;
-
-
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 ## IDEs ?
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" height="25" />&nbsp;
-<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>&nbsp;
-<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>&nbsp;
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=plastic&logo=Overleaf&logoColor=white)
 
 ## SOs ?
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
-<img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />&nbsp;
-
-
-
-
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)
 
 ## In what am I having fun ?
 
@@ -150,12 +127,14 @@
 <img alt="React Native logo" src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" title="React Native" height="25" />&nbsp;
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>&nbsp;
 
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ## Usually I spend time on ?
-<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white"/>&nbsp;
-<img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>&nbsp;
-<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>&nbsp;
-<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>&nbsp;
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=Udemy&logoColor=white"/>&nbsp;
+<img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green"/>&nbsp;
+<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=plastic&logo=Repl.it&logoColor=white"/>&nbsp;
+<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white"/>&nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
