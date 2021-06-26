@@ -92,18 +92,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-282C34?style=plastic&logo=Node.js) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-282C34?style=plastic&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-282C34?style=plastic&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-282C34?style=plastic&logo=docker)
 ![Django](https://img.shields.io/badge/-Django-282C34?style=plastic&logo=Django)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
 
 ## here usually I spend time on ?
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=Udemy&logoColor=white)
@@ -111,7 +108,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=plastic&logo=Repl.it&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)
-![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" title="Stack Overflow)
+![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
