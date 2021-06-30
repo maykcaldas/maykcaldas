@@ -10,6 +10,7 @@
   <a href="https://twitter.com/kyam888" target="blank"><img align="right" src="profIcons/twitter.svg" alt="twitter" width="22px" /></a>&nbsp;
   <a href="https://instagram.com/kyam888" target="blank"><img align="right" src="profIcons/instagram.svg" alt="instagram" width="22px" /></a>&nbsp;
   <a href="https://www.codewars.com/users/maykcaldas" target="blank"><img align="right" src="profIcons/codewars.svg" alt="codewars" width="22px" /></a>&nbsp;
+  <a href="https://www.kaggle.com/maykcaldas" target="blank"><img align="right" src="profIcons/kaggle.svg" alt="kaggle" width="22px" /></a>&nbsp;
   <a href="Kyam#5760" target="blank"><img align="right" src="profIcons/discord.svg" alt="discord" width="22px" /></a>&nbsp;
   <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="blank"><img align="right" alt="Spotify" height="22px" width="22px" src="profIcons/spotify.svg"></a>&nbsp;
   <a href="https://t.me/Kyam888"><img align="right" alt="Telegram" width="22px" src="profIcons/telegram.svg"/></a>&nbsp;
