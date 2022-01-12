@@ -59,7 +59,7 @@
 
 ### Contact me!
 <p align="center"> 
-  <a href="https://maykcaldas.github.io/cv.html"><img src="imgs/cv.svg"></a>&nbsp;
+  <a href="maykCaldas_CV.pdf" download><img src="imgs/cv.svg"></a>&nbsp;
   <a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg"></a>&nbsp;
   <a href="mailto:maykcaldas@gmail.com"><img src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white"></a>&nbsp;
   <a href="https://twitter.com/kyam888"><img src="https://img.shields.io/badge/-Kyam888-blue?style=plastic&logo=Twitter&logoColor=white"></a>&nbsp;
