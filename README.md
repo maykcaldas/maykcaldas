@@ -3,10 +3,8 @@
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 -->
 
+<!-- ![visitors](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=flat-square) -->
 
-![visitors](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=flat-square)
-
-# Hey there! I'm Mayk Caldas 👋
 <p align="right">
   <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="__blank"><img align="right" alt="Spotify" height="22px" width="22px" src="profIcons/spotify.svg"></a>&nbsp;
   <a href="https://www.kaggle.com/maykcaldas" target="__blank"><img align="right" src="profIcons/kaggle.svg" alt="kaggle" width="22px" /></a>&nbsp;
@@ -15,12 +13,15 @@
   <a href="mailto:maykcaldas@gmail.com" target="__blank"><img align="right" src="profIcons/gmail.svg" alt="gmail" width="22px" /></a>&nbsp;
   <a href="https://github.com/maykcaldas" target="__blank"><img align="right" src="profIcons/github.svg" alt="github" width="22px" /></a>&nbsp;
 </p>
+
+# Hey there! I'm Mayk Caldas 👋
     
-  I'm currently a **PhD** student in **MSSM** research group at [Labmmol](https://labmmol.iq.ufrj.br/).<br>
+  I'm currently a **PhD** student in **MSSM** research group at [Labmmol](https://labmmol.iq.ufrj.br/).
+  <br>
   
   > `Making my way in developing science while I'm having fun with computer science`
 
-<br>
+  <br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykcaldas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 <p>
