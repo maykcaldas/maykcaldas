@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"/>
     <br>
   <img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=visual-studio-code&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white"/>
