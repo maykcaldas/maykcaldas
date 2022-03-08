@@ -29,11 +29,11 @@
   <p align="center">
   <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git"/>&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Python-green?style=plastic&logo=Python"/>
-  <img src="https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=green"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/F90-black?style=plastic&logo=fortran&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-black?style=plastic&logo=c%2B%2B&logoColor=white"/>
     <br>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"/>
