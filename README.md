@@ -16,7 +16,7 @@
 
 # Hey there! I'm Mayk Caldas 👋
     
-  I'm currently a **PhD** student in **MSSM** research group at [Labmmol](https://labmmol.iq.ufrj.br/).
+  I'm currently a **Postdoctoral** researcher in [**WhiteLab**](https://thewhitelab.org/) research group at the chemical engineering departament of [UofR](https://www.rochester.edu/).
   <br>
   
   > `Making my way in developing science while I'm having fun with computer science`
