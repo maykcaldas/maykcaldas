@@ -6,7 +6,7 @@
 <!-- ![visitors](https://komarev.com/ghpvc/?username=maykcaldas&color=lightgray&style=flat-square) -->
 
 <p align="right">
-  <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y" target="__blank"><img align="right" alt="Spotify" height="22px" width="22px" src="profIcons/spotify.svg"></a>&nbsp;
+  <a href="https://open.spotify.com/user/kyam888" target="__blank"><img align="right" alt="Spotify" height="22px" width="22px" src="profIcons/spotify.svg"></a>&nbsp;
   <a href="https://www.kaggle.com/maykcaldas" target="__blank"><img align="right" src="profIcons/kaggle.svg" alt="kaggle" width="22px" /></a>&nbsp;
   <a href="https://www.codewars.com/users/maykcaldas" target="__blank"><img align="right" src="profIcons/codewars.svg" alt="codewars" width="22px" /></a>&nbsp;
   <a href="https://twitter.com/kyam888" target="__blank"><img align="right" src="profIcons/twitter.svg" alt="twitter" width="22px" /></a>&nbsp;
