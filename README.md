@@ -16,7 +16,7 @@
 
 # Hey there! I'm Mayk Caldas 👋
     
-  I'm currently a **Postdoctoral** researcher in [**WhiteLab**](https://thewhitelab.org/) research group at the chemical engineering departament of [UofR](https://www.rochester.edu/).
+  I'm currently a **member of technical staff** at [**FutureHouse**](https://futurehouse.org/).
   <br>
   
   > `Making my way in developing science while I'm having fun with computer science`
@@ -61,7 +61,8 @@
   <a href="maykCaldas_CV.pdf" download><img src="imgs/cv.svg"></a>&nbsp;
   <a href="https://scholar.google.com.br/citations?user=28PtMhIAAAAJ&hl=pt-BR"><img src="imgs/citations.svg"></a>&nbsp;
   <a href="mailto:maykcaldas@gmail.com"><img src="https://img.shields.io/badge/-maykcaldas@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white"></a>&nbsp;
-  <a href="https://twitter.com/kyam888"><img src="https://img.shields.io/badge/-Kyam888-blue?style=plastic&logo=Twitter&logoColor=white"></a>&nbsp;
+  <a href="mailto:mayk@futurehouse.org"><img src="https://img.shields.io/badge/-mayk@futurehouse.org-c14438?style=plastic&logo=Gmail&logoColor=white"></a>&nbsp;
+  <a href="https://twitter.com/maykcaldas"><img src="https://img.shields.io/badge/-maykcaldas-black?style=plastic&logo=X&logoColor=white"></a>&nbsp;
   <a href=""><img src="https://img.shields.io/badge/Kyam%235760-black?style=plastic&logo=discord"></a>&nbsp;
 </p>
 
